@@ -28,21 +28,51 @@ Me llamo <strong>Raul Montoya</strong> y estudio Ingeniería en Sistemas Computa
 
 <hr>
 <h2>:wrench: Tecnologías conocidas</h2>
-<br>
-<p align="center">
+<h3 >Lenguajes programación</h3>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,azure,kotlin,androidstudio,python,bash,c,cpp,cs,debian,ubuntu,nodejs,dotnet,git,npm,figma,linux,mysql,nginx,php,sqlite,arduino,vscode,vue,xd" />
+    <img src="https://skillicons.dev/icons?i=js,java,python,bash,c,cpp,cs" />
+  </a>
+</p>
+<h3 >Desarrollo Frontend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+<h3 >Desarrollo de aplicaciones móviles</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+  </a>
+</p>
+<h3 >Bases de datos</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  </a>
+</p>
+<h3>Nube</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+</p>
+<h3 >Software y otros</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,ubuntu,xd,vscode,arduino,figma,git,npm" />
   </a>
 </p>
 
 
 <hr>
 
-### ⚙️ &nbsp; Git Analytics
+<h2>⚙️ Git Analytics</h2>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=21Rulo&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Rulo&theme=dark&layout=compact" width="410" /></p>
 
 ------
-Last Edited on: 01/12/2024
+<!-- Last Edited on: 01/12/2024 -->
 
