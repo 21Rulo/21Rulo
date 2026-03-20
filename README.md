@@ -4,9 +4,7 @@
 <h1 align="center"> Hola! Bienvenidos <3 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 
-<a href="https://bsky.app/profile/rmontoya21.bsky.social">
-<img src="https://github.com/user-attachments/assets/550db207-c748-46cf-ad25-64836b63ecb6" width="35px"/></a>
-<a href="mailto:rulomds21@gmail.com">
+<a href="mailto:raulmon.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <hr>
@@ -18,11 +16,11 @@ Me llamo <strong>Raul Montoya</strong> y estudio Ingeniería en Sistemas Computa
 <!-- TODO: Add last video link -->
 
 - :seedling: Actualmente estoy aprendiendo <i><b>Vue.js</b></i> 
-- 🤔 Estoy en búsqueda de una pasantía para adquirir experiencia.
+- 🤔 Estoy en búsqueda de trabajo para adquirir experiencia.
 - :speech_balloon: Estoy aquí para responder cualquier pregunta. 
 
   
-<p>:mailbox: <b>Contacto: </b><a href="mailto:rulomds21@gmail.com">rulomds21@gmail.com</a></p> 
+<p>:mailbox: <b>Contacto: </b><a href="mailto:raulmon.dev@gmail.com">raulmon.dev@gmail.com</a></p> 
 
 
 
