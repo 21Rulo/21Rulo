@@ -47,19 +47,19 @@ Me llamo <strong>Raul Montoya</strong> y estudio Ingeniería en Sistemas Computa
 <h3 >Bases de datos</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase" />
   </a>
 </p>
 <h3>Nube</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://skillicons.dev/icons?i=azure,gcp" />
   </a>
 </p>
 <h3 >Software y otros</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,ubuntu,xd,vscode,arduino,figma,git,npm" />
+    <img src="https://skillicons.dev/icons?i=debian,ubuntu,vscode,arduino,figma,git,npm,unity" />
   </a>
 </p>
 
